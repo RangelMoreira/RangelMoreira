@@ -1,8 +1,8 @@
 ## Hey there, I'm Kevin  👋
 
-A JavaScript and Typescript developer who believes in using technology to make people's lives a little easier. 
+I am a junior JavaScript /Typescript developer and a Java Spring Boot student who believes in using technology to make people's lives a little easier.
 
-I am currently focused on React, Node js, Vue js and React Native technologies to create the best solutions.  
+I am currently focused on React Js/React Native, Node js and Java Spring Boot technologies to create the best solutions. 
 
 In addition I am enthusiastic about IOT and handmade hardware, and I like to create projects with Arduino in my free time.
 
