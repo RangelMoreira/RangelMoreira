@@ -1,10 +1,12 @@
 ## Hey there, I'm Kevin  👋
 
-I am a junior JavaScript /Typescript developer and a Java Spring Boot student who believes in using technology to make people's lives a little easier.
+I'm a junior JavaScript / Typescript and Java Spring Boot developer who believes in using technology to make people's lives a little easier.
+I'm currently focused on React Js / React Native, Node js, Java Spring Boot (Maven, JPA / HIbernate, Junity, Swagger, OAuth / JWT) and PostgreSQL technologies to create the best solutions.
+Also, I'm an IOT and handcrafted hardware enthusiast, I like to create projects with Arduino in my spare time.
 
-I am currently focused on React Js/React Native, Node js and Java Spring Boot technologies to create the best solutions. 
-
-In addition I am enthusiastic about IOT and handmade hardware, and I like to create projects with Arduino in my free time.
+Sou um desenvolvedor júnior JavaScript / Typescript e  Java Spring Boot que acredita no uso da tecnologia para tornar a vida das pessoas um pouco mais fácil.
+Atualmente estou focado nas tecnologias React Js / React Native, Node js, Java Spring Boot (Maven, JPA/ HIbernate, Junity, Swagger, OAuth/JWT) e PostgreSQL  para criar as melhores soluções.
+Além disso, sou entusiasta de IOT e hardware artesanal,  gosto de criar projetos com o Arduino em meu tempo livre.
 
 Reach me out!⬇️
 
