@@ -10,4 +10,4 @@ Além disso, sou entusiasta de IOT e hardware artesanal,  gosto de criar projeto
 
 Reach me out!⬇️
 
-[![Linkedin Badge](https://img.shields.io/badge/-Kevin%20Rangel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-rangel-moreira-a282b780/)](https://www.linkedin.com/in/kevin-rangel-moreira-a282b780/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Kevin%20Rangel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-rangel-moreira-a282b780/)](https://www.linkedin.com/in/kevin-rangel-moreira/) 
